@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Shahid Video Playback Test Suite">
+    <test name="Video Playback Tests">
+        <classes>
+            <class name="tests.VideoPlaybackTest"/>
+        </classes>
+    </test>
+</suite>
